@@ -1,0 +1,35 @@
+
+.titulo{
+    border-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #5d11e9;
+
+}
+.subtitulo1 {
+    border-width: 2px;
+    border-style:solid;
+    border-color: #aca7a7;
+}
+
+.lista1 {
+    border-width: 4px;
+    border-top-style:dotted;
+    border-top-color: #d61e1e;
+    border-bottom-style:dotted;
+    border-bottom-color: #d32222;
+}
+.subtitulo2 {
+    border-width: 2px;
+    border-style:solid;
+    border-color: #aca7a7;
+}
+.subtitulo3 {
+    border-width: 2px;
+    border-style:solid;
+    border-color: #aca7a7;
+}
+.lista2 {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #07f5ae;
+}
